@@ -9,7 +9,7 @@ Thumbs.db
 ###################
 .gradle/
 /build/
-
+target/
 # IDEA specific #
 #################
 .idea/
